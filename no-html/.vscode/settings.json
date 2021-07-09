@@ -1,5 +1,6 @@
 {
     "liveServer.settings.port": 5500,
+    "liveServer.settings.ignoreFiles": ["**/*.html", "**/*.css", "**/*.js"],
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 500
 }
